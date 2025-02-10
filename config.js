@@ -15,7 +15,7 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/20zSXzDZ/Manul-Ofc-X.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "NIAPAL SA NDY SI SOUF",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
